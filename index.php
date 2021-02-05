@@ -5,9 +5,6 @@
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
 	</head>
 <body>
-
-		<h3 class="text-primary">PHP - Create Excel File From MySQLi Table</h3>
-		<hr style="border-top:1px dotted #ccc;"/>
 		<div class="col-md-4">
 			<form action="save.php" method="POST">
 				<div class="form-group">
